@@ -101,13 +101,14 @@ footer
 .creator-pic
 {
     width: 10%;
-    allign self:center;
+    
 }
 
 .creator-name
 {   
     margin-left: 0.75rem;
     width: 80%;
+    allign self:center;
 }
 
 
